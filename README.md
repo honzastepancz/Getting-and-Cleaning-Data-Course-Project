@@ -6,14 +6,14 @@ output: html_document
 ---
 The script analyzes data from UCI HAR Dataset. The archive file needs to be extracted into the working directory.
 
-Desription of the used files in Dataset:
-features.txt - descriptions for features
-X_train.txt - measurements of the features in train set
-y_train.txt - numbered activity for each measurement for train set
-X_test.txt - measurements of the features in test set
-y_test.txt - numbered activity for each measurement for test set
-subject_train.txt - subject for each measurement for train set
-subject_test.txt - subject for each measurement for test set
+Desription of the files used in Dataset:
+* features.txt - descriptions for features
+* X_train.txt - measurements of the features in train set
+* y_train.txt - numbered activity for each measurement for train set
+* X_test.txt - measurements of the features in test set
+* y_test.txt - numbered activity for each measurement for test set
+* subject_train.txt - subject for each measurement for train set
+* subject_test.txt - subject for each measurement for test set
 
 
 How this script works:
