@@ -9,23 +9,24 @@ Variables description:
 subject - ID of participant
 activity - ID of activity type
 Mean and standart deviation for the following features:
-        tBodyAcc-XYZ
-        tGravityAcc-XYZ
-        tBodyAccJerk-XYZ
-        tBodyGyro-XYZ
-        tBodyGyroJerk-XYZ
-        tBodyAccMag
-        tGravityAccMag
-        tBodyAccJerkMag
-        tBodyGyroMag
-        tBodyGyroJerkMag
-        fBodyAcc-XYZ
-        fBodyAccJerk-XYZ
-        fBodyGyro-XYZ
-        fBodyAccMag
-        fBodyAccJerkMag
-        fBodyGyroMag
-        fBodyGyroJerkMag
+
+*        tBodyAcc-XYZ
+*        tGravityAcc-XYZ
+*        tBodyAccJerk-XYZ
+*        tBodyGyro-XYZ
+*        tBodyGyroJerk-XYZ
+*        tBodyAccMag
+*        tGravityAccMag
+*        tBodyAccJerkMag
+*        tBodyGyroMag
+*        tBodyGyroJerkMag
+*        fBodyAcc-XYZ
+*        fBodyAccJerk-XYZ
+*        fBodyGyro-XYZ
+*        fBodyAccMag
+*        fBodyAccJerkMag
+*        fBodyGyroMag
+*        fBodyGyroJerkMag
 
 Following transformations were performed to clean up the data:
 
